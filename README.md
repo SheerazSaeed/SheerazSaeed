@@ -1,8 +1,9 @@
 Welcome to Sheeraz's GitHub Profile!
-About Me
+
+About Me:
 👋 Hi there! I'm Sheeraz. I've been on an exciting coding journey with The Odin Project for about 8 months now, currently diving deep into the intermediate course. I'm passionate about web development and love to create projects that challenge and inspire me.
 
-Projects
+Projects:
 Here are some of the projects I've been working on:
 
 Dashboard: A dynamic dashboard for managing tasks or data.
